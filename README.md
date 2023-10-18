@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Shraddha1354
-- 👀 I’m interested in Coding!!
-- 🌱 I’m currently learning Power Apps.
-- 💞️ I’m looking to collaborate on Data Science
+- 👋 Hi, I’m Shraddha Dhende
+- 👀 I’m interested in PowerApps, cloud, and Programming!
+- 🌱 I have completed my B.Tech in Computer Engineering.
+- Reach me on LinkedIn : https://www.linkedin.com/in/shraddha-dhende-49684a216/ 
+- Reach me on Email - shraddhadhende423@gmail.com 📨
 
 
-<!---
-Shraddha1354/Shraddha1354 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
